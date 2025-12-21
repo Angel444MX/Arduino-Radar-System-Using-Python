@@ -1,4 +1,4 @@
-# Project 1: Ultrasonic Distance Sensor with Feedback System
+# Project 1: Distance Alarm System
 
 ## Overview
 This project demonstrates basic ultrasonic distance measurement using the HC-SR04 sensor with Arduino. 
