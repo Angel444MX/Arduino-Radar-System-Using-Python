@@ -12,7 +12,7 @@ A continuously scanning radar system that uses an ultrasonic sensor mounted on a
 
 ## Project Progression
 
-### Project 1: Ultrasonic Sensor Basics
+### Project 1: Distance Alarm System
 Understanding distance measurement with HC-SR04 sensor
 
 ### Project 2: Servo Motor Control
