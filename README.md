@@ -15,8 +15,8 @@ A continuously scanning radar system that uses an ultrasonic sensor mounted on a
 ### Project 1: Distance Alarm System
 Understanding distance measurement with HC-SR04 sensor
 
-### Project 2: Servo Motor Control
-Precise servo positioning and sweeping
+### Project 2: Servo Angle Controller
+Precise servo positioning and sweeping based on user input
 
 ### Project 3: Sensor-Servo Integration
 Combining sensor and servo with basic scanning logic
