@@ -88,3 +88,6 @@ Install via Arduino IDE: Sketch → Include Library -> Add .ZIP library → Down
 
 ## License
 This project is open source and available for educational purposes.
+
+## Author
+Angel Dircio - November 2025 (uploaded December 2025)
